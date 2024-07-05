@@ -93,7 +93,7 @@ nav ul li a:hover {
 /* Media Queries */
 
 /* Mobile Devices */
-@media only screen and (max-width: 576px) {
+@media only screen and (max-width: 667px) {
     nav {
         background: white;
         display: flex;
@@ -116,7 +116,7 @@ nav ul li a:hover {
         font-weight: 400;
         color: black;
         margin-left: 4px;
-        margin-bottom: 10px;
+        margin-bottom: 220px;
     }
 
     nav ul li a:hover {
@@ -145,7 +145,7 @@ nav ul li a:hover {
 }
 
 /* Tablet Devices */
-@media only screen and (min-width: 577px) and (max-width: 992px) {
+@media only screen and (min-width: 668px) and (max-width: 992px) {
     nav {
         background: white;
         display: flex;
